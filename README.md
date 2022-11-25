@@ -2,9 +2,7 @@
 
 A repository of a ROS-NODE for gesture functionality in Alpha Rover.
 
-![enter image description here](https://media.giphy.com/media/NbtOHMoDaSoTB9HlSK/giphy.gif)
-
-<img src="https://media.giphy.com/media/mjZVZZ7VlJuKo5hcr0/giphy.gif" width="750" height="450" />
+<img src="https:https://media.giphy.com/media/NbtOHMoDaSoTB9HlSK/giphy.gif" width="400" height="400" />
 
 
 # Software requirements
