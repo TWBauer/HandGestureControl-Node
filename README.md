@@ -47,8 +47,7 @@ You will see the commands that the talker.py will be sending
 
 ![Screenshot from 2022-11-24 22-39-01](https://user-images.githubusercontent.com/76453036/203896785-ed5de2a5-da75-464b-882a-e7a35b214c0c.png)
 
-This code works as a ROS node, if you want to test the code without connecting through ROS, use the following instruction.
-
+This code works as a ros node and has a 'Twist' output to be read by the roboclaw node, if you want to test the code without the need to connect through ROS, use the following instruction.
     python3 pruebamano.py
 
 ## Author
