@@ -1,8 +1,8 @@
 # #Gesture Functionality Alpha Rover
 
 A repository of a ROS-NODE for gesture functionality in Alpha Rover
-![Rover](https://user-images.githubusercontent.com/76453036/203872954-61260aa4-e0d0-4fcd-be62-b58db4356578.png)
 
+<img src="https://media.giphy.com/media/NbtOHMoDaSoTB9HlSK/giphy.gif" width="750" height="450" />
 
 
 # Software requirements
