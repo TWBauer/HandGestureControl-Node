@@ -1,6 +1,6 @@
 # #Gesture Functionality Alpha Rover
 
-A repository of a ROS-NODE for gesture functionality in Alpha Rover
+A repository of a ROS-NODE for gesture functionality in Alpha Rover.
 ![enter image description here](https://media.giphy.com/media/NbtOHMoDaSoTB9HlSK/giphy.gif)
 
 
